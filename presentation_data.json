@@ -1,9 +1,9 @@
 {
     "name": "Joanne Jordan",
-    "netlify_subdomain": "<YOUR NETLIFY URL>",
+    "netlify_subdomain": "https://confident-heisenberg-921c15.netlify.com/presentation_data.json",
     "blog_post_1": {
         "title": "How Did I Get Here?: My Entry into Machine Learning and Artificial Intelligence",
-        "url": "<MEDIUM OR WEB URL>",
+        "url": "https://medium.com/@joanne.k.m.jordan/how-did-i-get-here-b5ece2716078",
         "keywords": ["Education","Machine Learning","Education Technology"]
     },
     "blog_post_2": {
@@ -12,7 +12,7 @@
         "keywords": ["Titanic","Data Science","Education"]
     },
     "blog_post_3": {
-        "title": "<TITLE3>",
+        "title": "...will be up this weekend...",
         "url": "<MEDIUM OR WEB URL>",
         "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
     },
