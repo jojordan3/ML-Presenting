@@ -1,0 +1,21 @@
+{
+    "name": "Joanne Jordan",
+    "netlify_subdomain": "<YOUR NETLIFY URL>",
+    "blog_post_1": {
+        "title": "How Did I Get Here?: My Entry into Machine Learning and Artificial Intelligence",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["Education","Machine Learning","Education Technology"]
+    },
+    "blog_post_2": {
+        "title": "From Tragedy to Educational Tool: The Titanic Dataset at a Data Science Rite of Passage",
+        "url": "https://medium.com/@joanne.k.m.jordan/from-tragedy-to-educational-tool-the-titanic-data-set-at-a-data-science-rite-of-passage-91e95f336af8",
+        "keywords": ["Titanic","Data Science","Education"]
+    },
+    "blog_post_3": {
+        "title": "<TITLE3>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "my_linkedin": "www.linkedin.com/in/joanne-jordan-0b270814",
+    "latex": "\begin{displaymath} \begin{bmatrix} 9 \ 9 \\ 6 \ 10 \\ 5 \ 7 \\end{bmatrix} = \begin{bmatrix} 1 \ 0 \ 1 \\ 0 \ 1 \ 1 \\ 0 \ 0 \ 1 \\end{bmatrix} \\cdot \begin{bmatrix} 4 \ 2 \\ 1 \ 3 \\ 5 \ 7 \\end{bmatrix} \\end{displaymath}"
+}
